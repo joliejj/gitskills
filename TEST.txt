@@ -1,1 +1,4 @@
 PLEASE TELL ME I AM GOOD
+hello i am a lady
+git is a distributed version control system
+git is free software under GPL
