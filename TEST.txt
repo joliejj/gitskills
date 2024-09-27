@@ -5,3 +5,4 @@ git is free software under GPL
 GIT tracks change
 creating a new branch is quick & simple.
 don't be annoyed
+don't be envying
