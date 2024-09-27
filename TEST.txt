@@ -1,7 +1,7 @@
 PLEASE TELL ME I AM GOOD
 hello i am a lady
 git is a distributed version control system
-git is free software under GPL
+git is free software under GPL。。。。
 GIT tracks change
 creating a new branch is quick & simple.
 don't be annoyed
